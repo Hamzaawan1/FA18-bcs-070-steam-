@@ -1,0 +1,207 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* div
+{
+    border: 1px solid red;
+} */
+body{
+    background-image: url('/Images/steam-hex-colors-gradient-background.png')
+}
+.container1
+{
+    overflow: hidden;
+    font-size: 14px;
+    font-weight: normal;
+    background-color: #171a21;
+
+}
+.list1 li
+{
+    display: inline;
+    margin: 10px;
+    color: #c6d4df;
+}
+.topmenu{
+    width: 16%;
+    float: right;
+    margin-top: 50px;
+    margin-right: 750px;
+}
+.logo
+{
+    margin-left: 30%;
+    overflow: hidden;
+    width: 11%;
+    color: #c6d4df;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.leftcolumn
+{
+    width: 210px;
+    margin-top: 40px;
+    margin-left: 80px;
+    position: absolute;
+
+    
+    
+}
+.leftcolumn .steamcards
+{
+    max-width: 100%;
+    height: auto;
+
+    
+}
+.topbar
+{
+    margin-left: 300px;
+    overflow: hidden;
+    
+    margin-top: 30px;
+    
+    background: rgba( 62, 126, 167, 0.8);
+    box-shadow: 0 0 3px rgb(0 0 0 / 40%);
+
+    
+    
+
+}
+.list2 li
+{
+    display: inline;
+    margin: 10px;
+    
+
+
+}
+li.nav-item.dropdown :hover
+{
+    background-color:#d9dadd;
+    
+}
+li.nav-item:hover
+{
+    background-color:#d9dadd;
+    
+}
+a.nav-link.dropdown-toggle :hover
+{
+
+}
+.nav-tabs .nav-item {
+    margin-bottom: -1px;
+    border-right: 1px solid rgba( 16, 21, 25, 0.3);
+}
+.featured 
+{
+    margin-left: 300px;
+    text-transform: uppercase;
+    color: #fff;
+    letter-spacing: 2px;
+    font-weight: normal;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-size: 14px;
+    margin-top: 30px;
+}
+.myslides
+{
+    margin-left: 308px;
+}
+.valhiem{
+    float: left;
+    
+    
+}
+.gamename{
+    width: 100px;
+    float: right;
+    margin-right: 53px;
+    margin-top: 21px;
+    max-height: 62px;
+    overflow: hidden;
+    font-size: 24px;
+    line-height: 26px;
+    color: rgb(255, 255, 255);
+}
+.valss
+{
+    overflow: hidden;
+    width: 314px;
+    margin-left: 6px;
+    height: 185px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    
+    
+    
+    
+    
+    
+}
+.valss div{
+   
+
+}
+.maincarsol{
+    overflow: hidden;
+}
+.footer
+{
+    margin-top: 200px;
+    width: 1903px;
+    height: 267px;
+    background-color: #171a21;
+}
+.footer h1{
+    font-size: 24px;
+    color: #67c1f5;
+    text-align: center;
+    font-weight: normal;
+    margin-top: 25px;
+}
+.footer #content 
+{
+  text-align: center;
+  font-size: 15px;
+  color: #8f98a0;
+  font-weight: normal;
+  margin-top: 20px;
+}
+.footer .greenbutton
+{
+    text-align: center;
+    font-size: 15px;
+    height: 25px;
+    width: 70px;
+    margin-left: 48%;
+    margin-top: 20px;
+    border-radius: 4px;
+    border: 2px solid #172030;
+    cursor: pointer;
+    text-decoration: none !important;
+    color: #D2E885  !important;
+    
+    background: linear-gradient( to bottom, #a4d007 5%, #536904 95%);
+    display: inline-block;
+    
+}
+.content2
+{
+    margin-left: 44%;
+    color: #8f98a0;
+}
+.signup
+{
+    color: #c6d4df
+}
+.footer2
+{
+    padding-top: 10px;
+}
+
